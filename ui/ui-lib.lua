@@ -4,9 +4,6 @@
     
     https://discord.gg/VhvTd5HV8d
     ^^ join for custom commissions
-
-    example/documentation is at the bottom
-    date: 19.07.2025
 ]]
 
 if Library then
@@ -6213,3 +6210,5 @@ local Library do
         return SettingsPage
     end
 end
+
+return Library
